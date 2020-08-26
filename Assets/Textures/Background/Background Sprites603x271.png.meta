@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 28971bdd21a0f3741953ed0c81fe2330
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7009998886008449435
+    second: Background Sprites603x271_0
+  - first:
+      213: 3605398945482519690
+    second: Background Sprites603x271_1
+  - first:
+      213: -6125847121732387561
+    second: Background Sprites603x271_2
+  - first:
+      213: -2635045851324298118
+    second: Background Sprites603x271_3
+  - first:
+      213: 8147260830917106750
+    second: Background Sprites603x271_4
+  - first:
+      213: -8688109899235540321
+    second: Background Sprites603x271_5
+  - first:
+      213: 4566938981996438512
+    second: Background Sprites603x271_6
+  - first:
+      213: 1961615454884709661
+    second: Background Sprites603x271_7
+  - first:
+      213: 4787449972776811615
+    second: Background Sprites603x271_8
+  - first:
+      213: 3170979406592080541
+    second: Background Sprites603x271_9
+  - first:
+      213: -3763380596429638471
+    second: Background Sprites603x271_10
+  - first:
+      213: -6558277876916882710
+    second: Background Sprites603x271_11
+  - first:
+      213: 5971087913014987186
+    second: Background Sprites603x271_12
+  - first:
+      213: 6560206328428837104
+    second: Background Sprites603x271_13
+  - first:
+      213: -3388698609617742632
+    second: Background Sprites603x271_14
+  - first:
+      213: -5641901958384901359
+    second: Background Sprites603x271_15
+  - first:
+      213: 2239520604017093036
+    second: Background Sprites603x271_16
+  - first:
+      213: 5917852218457753725
+    second: Background Sprites603x271_0
+  - first:
+      213: 9150170800146943298
+    second: Background Sprites603x271_1
+  - first:
+      213: 266293749397723287
+    second: Background Sprites603x271_2
+  - first:
+      213: 193912949619465132
+    second: Background Sprites603x271_3
+  - first:
+      213: -8651315546369925141
+    second: Background Sprites603x271_4
+  - first:
+      213: -688682552840793254
+    second: Background Sprites603x271_5
+  - first:
+      213: 2913622803098877305
+    second: Background Sprites603x271_6
+  - first:
+      213: 1808191149297103256
+    second: Background Sprites603x271_7
+  - first:
+      213: -6630297982932697054
+    second: Background Sprites603x271_8
+  - first:
+      213: -5727713057942423231
+    second: Background Sprites603x271_9
+  - first:
+      213: 5430796164335008414
+    second: Background Sprites603x271_10
+  - first:
+      213: -4620503804980980329
+    second: Background Sprites603x271_11
+  - first:
+      213: 1134077656553318666
+    second: Background Sprites603x271_12
+  - first:
+      213: 3287904970814804088
+    second: Background Sprites603x271_13
+  - first:
+      213: 4079615936975702735
+    second: Background Sprites603x271_14
+  - first:
+      213: 5441709226694134287
+    second: Background Sprites603x271_15
+  - first:
+      213: 842608123148793510
+    second: Background Sprites603x271_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 10
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Background Sprites603x271_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d788e621d3f602250800000000000000
+      internalID: 5917852218457753725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_1
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d09e0fcdfebfe70800000000000000
+      internalID: 9150170800146943298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_2
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79812c211c012b300800000000000000
+      internalID: 266293749397723287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_3
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab9a6fdccae0b200800000000000000
+      internalID: 193912949619465132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_4
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef5ec2e85a50f780800000000000000
+      internalID: -8651315546369925141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_5
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a535ae2fdde4176f0800000000000000
+      internalID: -688682552840793254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_6
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dbf2c90844f6820800000000000000
+      internalID: 2913622803098877305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_7
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891fbd3254cf71910800000000000000
+      internalID: 1808191149297103256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_8
+      rect:
+        serializedVersion: 2
+        x: 4824
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220ce440d137cf3a0800000000000000
+      internalID: -6630297982932697054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_9
+      rect:
+        serializedVersion: 2
+        x: 5427
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149b9fd02531380b0800000000000000
+      internalID: -5727713057942423231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_10
+      rect:
+        serializedVersion: 2
+        x: 6030
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9afdbe76501e5b40800000000000000
+      internalID: 5430796164335008414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_11
+      rect:
+        serializedVersion: 2
+        x: 6633
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79594c4154ca0efb0800000000000000
+      internalID: -4620503804980980329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_12
+      rect:
+        serializedVersion: 2
+        x: 7236
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09619abe9d0dbf00800000000000000
+      internalID: 1134077656553318666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_13
+      rect:
+        serializedVersion: 2
+        x: 7839
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87058a0a62cf0ad20800000000000000
+      internalID: 3287904970814804088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_14
+      rect:
+        serializedVersion: 2
+        x: 8442
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca85777415bd9830800000000000000
+      internalID: 4079615936975702735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_15
+      rect:
+        serializedVersion: 2
+        x: 9045
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ac114d5b5d48b40800000000000000
+      internalID: 5441709226694134287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background Sprites603x271_16
+      rect:
+        serializedVersion: 2
+        x: 9648
+        y: 0
+        width: 603
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a67429af9b81bb00800000000000000
+      internalID: 842608123148793510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
